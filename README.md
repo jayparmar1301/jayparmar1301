@@ -5,7 +5,7 @@
 
 
 ### About Me
-I am Professional Python Developer from India, I completed my M.Tech Graduate from [Nirma University](https://nirmauni.ac.in/).
+I am Professional Python Developer from India, I completed post graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science.
 
 ### Achievements 
 - State level boxing runner up
