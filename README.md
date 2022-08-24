@@ -1,4 +1,4 @@
-### Hi There,  I’m Jay Parmar <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+### Hi there,  I’m Jay Parmar <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 
 
@@ -7,7 +7,8 @@
 ### About Me
 I am a Professional Python Developer from India, I completed post graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science.
 
-
+###  Publication
+[Real-time Face Mask Detection with Face Recognition Using MobileNetV2](https://ecc.journalspub.info/index.php?journal=JESET&page=article&op=view&path%5B%5D=1638)
 
 ###  Technologies
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
