@@ -5,7 +5,7 @@
 
 
 ### About Me
-I am Professional Python Developer from India, I completed post graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science.
+I am a Professional Python Developer from India, I completed post graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science.
 
 
 
