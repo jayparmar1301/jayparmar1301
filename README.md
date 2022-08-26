@@ -5,7 +5,9 @@
 
 
 ### About Me
-I am a Professional Python Developer from India, I completed post graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science.
+I am a Professional Python Developer from India, I completed post-graduation from [Nirma University](https://nirmauni.ac.in/) in Computer Science. I have been in the IT industry since 2019.
+
+I believe what it takes to become an excellent developer is not memorizing code blocks rather takes a person to be good at logic building and debugging.  So, don't worry about remembering code blocks', commencement learning logic building, and debugging.
 
 ###  Publication
 [Real-time Face Mask Detection with Face Recognition Using MobileNetV2](https://ecc.journalspub.info/index.php?journal=JESET&page=article&op=view&path%5B%5D=1638)
