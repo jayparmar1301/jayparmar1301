@@ -11,6 +11,7 @@ I believe what it takes to become an excellent developer is not memorizing code 
 
 ###  Publication
 [Real-time Face Mask Detection with Face Recognition Using MobileNetV2](https://ecc.journalspub.info/index.php?journal=JESET&page=article&op=view&path%5B%5D=1638)
+[Microservice Architecture Observability Tool Analysis](https://link.springer.com/chapter/10.1007/978-981-19-8669-7_1)
 
 ###  Technologies
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
