@@ -13,7 +13,7 @@ I believe what it takes to become an excellent developer is not memorizing code 
 
 [Microservice Architecture Observability Tool Analysis](https://link.springer.com/chapter/10.1007/978-981-19-8669-7_1)
 
-[日本のグリーン移行を推進する：電力系統安定性と再生可能エネルギー統合のための先進的モデリングフレームワーク][https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1523/]
+[日本のグリーン移行を推進する：電力系統安定性と再生可能エネルギー統合のための先進的モデリングフレームワーク](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/1523/)
 
 ###  Technologies
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
