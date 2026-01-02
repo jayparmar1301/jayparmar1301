@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmarjay376@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
 
-**Ahmedabad, Gujarat, India** | +91 76003 31599
+**Ahmedabad, Gujarat, India** 
 
 </div>
 
